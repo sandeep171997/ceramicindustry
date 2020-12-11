@@ -1,0 +1,19 @@
+#ind{font-size:50px;
+	 color:blue}
+#contents{width:280px;
+              height:150px;
+			  padding:30px 90px 5 0px 80px;
+			  margin:100px 280px 30px 280px;
+			  background-color:white}
+#fnm{width:400px;
+              height:150px;
+			  padding:30px 90px 5 0px 80px;
+			  margin:100px 280px 30px 280px;
+			  background-color:white}
+#tas{width:400px;
+              height:150px;
+			  padding:30px 90px 5 0px 80px;
+			  margin:100px 280px 30px 280px;
+			  background-color:white}
+
+body{background:url(ceramic.jpg);

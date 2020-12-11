@@ -1,0 +1,47 @@
+
+<html>
+ <head>
+  
+  <title>CERAMITES</title>
+ </head>
+ <body>
+ <link rel="stylesheet" href=ceramites.css>
+ <div id="ind">
+ <h1>CERAMITES</h1>
+ </div>
+ <div id="fnm">
+ <table>
+ <form>
+ <tr>
+ <td><input placeholder="   FirstName  "></td>
+ <td><input  placeholder="   LastName  "></td>
+ </tr>
+  <tr>
+ <td></td>
+ <td></td>
+ </tr>
+
+ <tr>
+ <td><input placeholder="   PhNo  " ></td>
+ <td><input placeholder="   Gender  "></td>
+ </tr>
+ <tr>
+ <td></td>
+ <td></td>
+ </tr>
+ <tr>
+ <td><input placeholder="   Password  " ></td>
+ </tr>
+ <tr>
+ <td><input type="submit"></td>
+ </tr>
+ </form>
+
+ </table>
+ <a href="ceramites.html" target="_blank"><font color="black">confirm</font></a>
+ 
+ 
+
+  
+ </body>
+</html>

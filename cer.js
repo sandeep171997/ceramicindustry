@@ -1,0 +1,17 @@
+function validatepassword()
+{
+	var Password = document.io.pwd.value
+	var PasswordLen=password.length
+		if(PasswordLen<4)
+	{
+		document.getElementById("were").innerHTML="passwordLen is weak"
+	}
+	if(PasswordLen>=4)&&(PasswordLen<=6)
+	{
+		document.getElementById("were").innerHTML="passwordLen is medium"
+	}
+	else
+	{
+		document.getElementById("were").innerHTML="passwordLen is strong"
+	}
+}

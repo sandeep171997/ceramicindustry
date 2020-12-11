@@ -1,0 +1,31 @@
+
+<html>
+ <head>
+  
+  <title>CERAMITES</title>
+ </head>
+ <body>
+ <link rel="stylesheet" href=ceramites.css>
+ 
+ <div id="ind">
+ <h1>CERAMITES</h1>
+ </div>
+ <div id="tas">
+ <table>
+ <form>
+ <tr>
+ <td>EMPLOYEE ID <input placeholder ="1xx4"></td>
+ </tr>
+ <tr>
+ <td>SELECT DATE <input type=date></td>
+ </tr>
+ <tr>
+ <td> <input type="submit" value="VIEW TASK"></td>
+ </tr>
+ </form>
+</table>
+<a href="ceramites.html" target="_blank"><font color="black">LOGOUT</font></a>
+</div>
+  
+ </body>
+</html>
